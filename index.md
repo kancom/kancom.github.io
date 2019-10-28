@@ -1,9 +1,7 @@
   -----------------------------------------------------------
+  Andrey Kashirin, Agile Manger, Python Developer
   -----------------------------------------------------------
 
-### 
-
-### 
 ![technologies tags](/tags.png)
 ### Summary
 
@@ -112,10 +110,15 @@ gitlab, github, docker and almost ready to jump into AWS. Of course this
 is relatively new industry for me and I had to learn a lot of things,
 but I like learning.
 
-### 
 
 ### Hobby
 
 -   Skiing
 -   Bike
+
+### Contacts
+
+* Whatsapp, Telegram: +7 926 014 2327
+* Skype: kashirinas
+* email: kashirinas@rambler.ru
 
