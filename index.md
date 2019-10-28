@@ -1,6 +1,10 @@
-  -----------------------------------------------------------
-  Andrey Kashirin, Agile Manger, Python Developer
-  -----------------------------------------------------------
+-----------------------------------------------------------
+
+## Andrey Kashirin
+
+Considered positions: **Agile Manger, Python Developer**
+  
+-----------------------------------------------------------
 
 ![technologies tags](/tags.png)
 ### Summary
