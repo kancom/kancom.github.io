@@ -4,7 +4,7 @@
 ### 
 
 ### 
-
+![technologies tags](/tags.png)
 ### Summary
 
 I’ve started my career as a telecom engineer, meanwhile having high
@@ -29,6 +29,8 @@ I can abstract from problem to be able to look on to in from different
 angles, which may speed up its solving. As a good side effect of this,
 quite frequently, I see both points of view of arguing parties, so I
 help them to reach understanding.
+
+![experience](/expeience.png)
 
 I assume that it's more natural to read from the top to the bottom, thus
 I placed my experience in reversed order:
