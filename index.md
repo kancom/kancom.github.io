@@ -32,7 +32,14 @@ angles, which may speed up its solving. As a good side effect of this,
 quite frequently, I see both points of view of arguing parties, so I
 help them to reach understanding.
 
-![experience](/expeience.png)
+With my pet projects I'm touched the following:
+  * ML, particularly reinforced learning (tensorforce)
+  * bots for crypto-exchanges
+  * AWS: S3, EC2
+  * [HomeAssistant](https://www.home-assistant.io/) sw and its customization
+  * ELK stack
+
+![experience](/experience.png)
 
 I assume that it's more natural to read from the top to the bottom, thus
 I placed my experience in reversed order:
@@ -99,7 +106,7 @@ basic level, because sometimes in case of rush I helped to make some
 patches. Product won a quite demanding tender in Tier I telco operator.
 Finally product was bought by large swiss competitor and buried(
 
--   April 2019 – present. [HyperQuant](https://hyperquant.net/), **BE
+-   April 2019 – November 2019. [HyperQuant](https://hyperquant.net/), **BE
     Team Lead**. *Moscow, Russia*
 
     *B2C; Fin-tech.*
@@ -114,15 +121,24 @@ gitlab, github, docker and almost ready to jump into AWS. Of course this
 is relatively new industry for me and I had to learn a lot of things,
 but I like learning.
 
+-   Devember 2019 - Present. [MTS IT](https://mts.ru), **Technical Manager**, *Moscow, Russia*
+
+    *B2B; Telecom*
+
+
+I lead a development team of 20+ people, consisting of specialists in various fields and methods of involvement in the team (staff, out-staff, outsource).
+We are engaged in the development of 2 parallel projects related to geo-positioning and the troubleshooting system on the network.
+Both systems are endowed with high performance and flexibility, including by the use of containers as a target platform. 
 
 ### Hobby
 
--   Skiing
+-   Guitar
 -   Bike
+-   Skiing
 
 ### Contacts
 
-* Whatsapp, Telegram: +7 926 014 2327
+* Viber, Whatsapp, Telegram: +7 926 014 2327
 * Skype: kashirinas
 * email: kashirinas@rambler.ru
 * Code example: https://github.com/kancom/
