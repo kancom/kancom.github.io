@@ -13,19 +13,14 @@ I’ve started my career as a telecom engineer, meanwhile having high
 passion to software development. Both of these fields are joined in my
 position as a leader of the team, developing software for telco.
 
-I do like learning: during daily trip to work I read some technical
-books or watch courses.
+I’ve been working in startups having very limited resources, where I've 
+had to try myself in different rols.
+And I was at something opposite - in huge over-bureaucracy corporations, 
+where there are "endless" resources, but you have to collect a thousand of
+approvals to get a single pen;)
 
-I’ve been working in startups where we had very limited resources at the
-beginning and I’ve had to try different roles, therefore I’ve got
-practical understanding of daily tasks and the needs of participants of
-software company’s team; later when team grew I took more management
-functions.
-
-My team and I both had high attitude and motivation regardless nature of
-task or problem therefore there were no failed technical tasks, where we
-took part. Of course that implies work under high pressure and in agile
-environment.
+During setup of development processes I tried a few methodologies. 
+My personal pick up is Kanban: it has better balance between the rituals and efficiency.
 
 I can abstract from problem to be able to look on to in from different
 angles, which may speed up its solving. As a good side effect of this,
