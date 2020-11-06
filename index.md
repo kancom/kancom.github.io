@@ -7,6 +7,7 @@ Considered positions: **Agile Manger, Python Developer**
 -----------------------------------------------------------
 
 ![technologies tags](/tags.png)
+![photo](/photo.jpg)
 ### Summary
 
 I’ve started my career as a telecom engineer, meanwhile having high
