@@ -50,7 +50,7 @@ With my pet projects I'm touched the following:
 
 Some vizualization of my experience...
 
-|experience vw|
+|experience vw|.|
 |--|--|
 |![experience vw1](/experience.png)|![experience vw2](/experience2.png)|
 
