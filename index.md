@@ -2,6 +2,8 @@
 
 ## Andrey Kashirin
 
+![photo](/photo.jpg =120x120)
+
 Considered positions: **Engineering Manager, Team Lead**
 
 <!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
@@ -16,10 +18,7 @@ Considered positions: **Engineering Manager, Team Lead**
 
 <!-- markdown-toc end -->
 
-  
-|photo|tags|
-|--|--|
-|![photo](/photo.jpg)|![technologies tags](/tags.png)|
+![technologies tags](/tags.png)
 
 ### Summary
 
@@ -50,9 +49,10 @@ With my pet projects I'm touched the following:
 
 Some vizualization of my experience...
 
-|experience vw|.|
-|--|--|
-|![experience vw1](/experience.png)|![experience vw2](/experience2.png)|
+| experience |
+|------------------------------------|
+| ![experience vw1](/experience.png) |
+|![experience vw2](/experience2.png) |
 
 
 ### Employment history
