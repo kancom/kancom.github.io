@@ -2,7 +2,7 @@
 
 ## Andrey Kashirin
 
-![photo](/photo.jpg =120x120)
+<img src="/photo.jpg" width="250">
 
 Considered positions: **Engineering Manager, Team Lead**
 
