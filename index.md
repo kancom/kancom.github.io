@@ -17,10 +17,9 @@ Considered positions: **Engineering Manager, Team Lead**
 <!-- markdown-toc end -->
 
   
------------------------------------------------------------
+:--:--:
+|![photo](/photo.jpg =120x)|![technologies tags](/tags.png)|
 
-![technologies tags](/tags.png)
-![photo](/photo.jpg)
 ### Summary
 
 I’ve started my career as a telecom engineer, meanwhile having high
@@ -49,7 +48,7 @@ With my pet projects I'm touched the following:
 
 Some vizualization of my experience...
 ![experience vw1](/experience.png)
-[experience vw2](https://docs.google.com/spreadsheets/d/e/2PACX-1vSiVkC537m0jNazMRA9AXEH8LT9ofnPeMlPtrQ3mBpHLbYM6Uci6IrMboOI_x9_wc2FOGT3vX0PPBJ7/pubchart?oid=1095017382&format=interactive)
+![experience vw2](/experience2.png)
 
 
 ### Employment history
