@@ -22,23 +22,11 @@ Considered positions: **Engineering Manager, Team Lead**
 
 ### Summary
 
-I’ve started my career as a telecom engineer, meanwhile having high
-passion to software development. Both of these fields are joined in my
-position as a leader of the team, developing software for telco.
+I have over 15+ years of experience in engineering, of which 8 years are associated with development. In development, I managed to experience several roles: analyst, base architect, team leader, and, of course, a developer. I have also worked both in large companies with a high level of bureaucracy and startups from their foundation to commercial launch. As a result, I know and, most importantly, understand the necessary ingredients of a successful development process.
+In addition, to create an effective architecture and have an up-to-date set of technical skills, I am constantly engaged in active development.
 
-I’ve been working in startups having very limited resources, where I've 
-had to try myself in different rols.
-And I was at something opposite - in huge over-bureaucracy corporations, 
-where there are "endless" resources, but you have to collect a thousand of
-approvals to get a single pen;)
 
-During setup of development processes I tried a few methodologies. 
-My personal pick up is Kanban: it has better balance between the rituals and efficiency.
-
-I can abstract from problem to be able to look on to in from different
-angles, which may speed up its solving. As a good side effect of this,
-quite frequently, I see both points of view of arguing parties, so I
-help them to reach understanding.
+I want to continue my development as an engineering expert at [python] back-end, while having significant voice at dicision making, on a relatively small team of high-level processionals, who are passionate of technology as I do.
 
 With my pet projects I'm touched the following:
 
