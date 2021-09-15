@@ -99,14 +99,16 @@ Some visualization of my experience...
 
     The projects are: online subscribers geo-positioning and a troubleshooting system on the network.
 
--   November 2020 - Present. [Sphereinc partners](https://www.sphereinc.com), 
+-   November 2020 - Present. [energetic company]
 
-    **Senior python developer**, *remote, Chicago, USA*
+    **Senior python developer**, *remote, Switzerland*
 
-    *B2B; outsourcing*
+    *B2B; consulting*
     
-    Technology stack: AWS, Azure, Spark, Hive, etc.
-    *Brought artifacts documentation standards. Being a technical advisor on customer faced meetings*
+    Technology stack: mysql, sqlalchemy, aiohttp, fast-api
+    Support of infrastructure for machine-learning framework. Delivery & execution of signals to customers.
+
+    I launched and supported few customer and exchange "faced" components. Successfully implemented break of a core monolith app into independent parts.
 
 
 ### Education
@@ -119,8 +121,8 @@ Some visualization of my experience...
 
 ### Hobby
 
--   Guitar
 -   Bike
+-   Guitar
 -   Skiing
 
 ### Contacts
